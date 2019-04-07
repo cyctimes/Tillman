@@ -1,0 +1,11 @@
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\bin\Debug\等线公式求解器.exe.config
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\bin\Debug\等线公式求解器.exe
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\bin\Debug\等线公式求解器.pdb
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\bin\Debug\等线公式求解器.xml
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.vbprojAssemblyReference.cache
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.Resources.resources
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.vbproj.GenerateResource.cache
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.vbproj.CoreCompileInputs.cache
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.exe
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.xml
+C:\Users\zzsj2\source\repos\等线公式求解器\等线公式求解器\obj\Debug\等线公式求解器.pdb
